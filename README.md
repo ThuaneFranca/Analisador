@@ -1,1 +1,1 @@
-# Analisador-Lexico
+# Analisador lexico, sintatico e semântico.
